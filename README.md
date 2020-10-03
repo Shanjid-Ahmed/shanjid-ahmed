@@ -4,8 +4,10 @@
 ## I'm a Fresh Graduate CSE Engineer, Foodie, Photographer, and Cinematographer!!
 
 
+- ⚒  I’m currently working on achieving my goals
 - 🌱 I’m currently learning Cybersecurity 
 - 👯 I’m looking to collaborate with Researchers
+- 🧐 I’m looking for help with research
 - 🥅 2021 Goals: Contribute more to various field in Computer Science
 - ⚡ Fun fact: Sleep Code Eat Travel and Repeat
 
