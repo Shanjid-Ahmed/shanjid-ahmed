@@ -21,7 +21,7 @@
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/facebook.svg" />][facebook]
 <br />
 <br />
-<img align="left" alt="codeSTACKr | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />sjahmed116@gmail.com
+<img align="left" alt="codeSTACKr | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg"/>sjahmed116@gmail.com
 
 
 <br />
