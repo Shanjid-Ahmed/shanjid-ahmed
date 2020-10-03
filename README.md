@@ -20,7 +20,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/facebook.svg" />][facebook]
 
-<br />
+
 #### E-mail: sjahmed116@gmail.com
 <br />
 <br />
