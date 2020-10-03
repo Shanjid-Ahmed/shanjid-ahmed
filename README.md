@@ -1,7 +1,7 @@
 ### Hello World! 👋 This is SHANJID
 
 
- I'm a Fresh Graduate CSE Engineer, Foodie, Photographer, and Cinematographer!!
+ #I'm a Fresh Graduate CSE Engineer, Foodie, Photographer, and Cinematographer!!
 
 
 - ⚒  I’m currently working on achieving my goals
